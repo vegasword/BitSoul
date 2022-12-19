@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f817843e7dd3466fcdbf6833e4a345f1225527866724fed5351320bfec750ff0
-size 357
+# BITSOUL
+
+A 1-BIT 2.5d platformer made on Unity.
+
+![In-game screenshot](./screenshot.png)
+
+You can play the game from your web browser [here](https://vegasword.itch.io/bitsoul).
+
+> **Note:** Depending on the web browser, the WebGl context may have poor performance, but this is extremely rare. This project should be functional with most of them.
